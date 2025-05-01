@@ -1,0 +1,23 @@
+{
+  "name": "lakshay-bts",
+  "version": "1.0.0",
+  "description": "this isw my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinchu12/lakshay-BTS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinchu12/lakshay-BTS/issues"
+  },
+  "homepage": "https://github.com/pinchu12/lakshay-BTS#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.5",
+    "tailwindcss": "^4.1.5"
+  }
+}
